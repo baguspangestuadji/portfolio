@@ -1,0 +1,54 @@
+.jumbotron {
+  padding-top: 2rem;
+  background-image: url("img/bg.jpg");
+  background-size: cover;
+}
+
+#project {
+  padding-top: 3rem;
+}
+
+#project h2 {
+  margin-bottom: 3rem;
+}
+
+#about {
+  padding-top: 3rem;
+}
+
+#about .row .tentang {
+  padding-top: 2rem;
+  font-size: x-large;
+  text-align: justify;
+}
+
+h2 {
+  background-size: cover;
+  background-image: url(img/bg.jpg);
+}
+
+h3 {
+  border: 1px solid rgb(0, 0, 0);
+  text-align: center;
+  background-color: yellow;
+}
+
+.card-text {
+  font-size: 1.3rem;
+  text-align: justify;
+}
+
+#experience .container {
+  padding-top: 1rem;
+}
+
+footer {
+  background-color: #0300bf;
+  color: white;
+  margin-top: 4rem;
+  padding: 1.2rem;
+}
+
+footer a {
+  color: white;
+}
